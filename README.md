@@ -1,4 +1,4 @@
 # sbp
-Analysis of UI SBP study cohort
+Analysis of study cohort
 This is line from RStudio. 
 
